@@ -20,6 +20,7 @@ interests:
 - Microsimulation modelling
 - Data science
 - Transport, environment, social inequality, fiscal federalism
+- I used to work on game theory, auction theory, economic history
 
 organizations:
 - name: Université Saint-Louis - Bruxelles
