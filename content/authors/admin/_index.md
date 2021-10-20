@@ -1,52 +1,55 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Economics
+    institution: KU Leuven
     year: 2008
-email: ""
+  - course: MSc in Economics
+    institution: KU Leuven
+    year: 2003
+  - course: Master in Economics (licentiaat)
+    institution: KU Leuven
+    year: 2002
+  - course: Master in History (licentiaat)
+    institution: KU Leuven
+    year: 1999
+email: "tom.truyts@usaintlouis.be"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public finance
+- Microsimulation modelling
+- Data science
+- Transport, environment, social inequality, fiscal federalism
+
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Université Saint-Louis - Bruxelles
+  url: http://www.usaintlouis.be/
+role: Professor of Public Economics
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+#  icon: twitter
+#  icon_pack: fab
+#  label: Follow me on Twitter
+#  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=uSMCpcwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tomtruyts
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/tom-truyts-5b5597137
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Tom Truyts
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 
+Tom Truyts coordinates the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tom Truyts is the director (together with Gilles Grandjean) of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>), co-director of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
