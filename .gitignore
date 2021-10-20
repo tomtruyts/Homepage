@@ -8,6 +8,12 @@
 # User-specific files
 .Ruserdata
 
+#other added
+.DS_Store
+Thumbs.db
+/public
+/resources
+
 # Example code in package build process
 *-Ex.R
 
