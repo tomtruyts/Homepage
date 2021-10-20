@@ -7,10 +7,10 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
-title: Experience
-subtitle:
+title: Projects
+subtitle: (coming soon)
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
