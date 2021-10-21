@@ -1,37 +1,17 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
+title: "New homepage built in R blogdown and Hugo"
+author: admin
+date: 2021-10-21
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["R Blogdown", "Hugo"]
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
+# Digital resurrection
+I am happy to be back online with a new personal homepage. Building this website was a very pleasant experience, thanks to:   
 
-# R Markdown
+*   The <a href="https://bookdown.org/yihui/blogdown/">R Blogdown </a> package  
+*   The <a href="https://gohugo.io"> Hugo </a> static website builder  
+*   The <a href="https://wowchemy.com/hugo-themes/">wowchemy academic </a> theme  
+*   A great <a href="https://www.youtube.com/watch?v=8xbxXR_Iu5Y&list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj"> online tutorial </a> by Jenny Sloane and Tehilla Ostrovsky    
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
-
-# Including Plots
-
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+Many thanks to all to make it so easy to look good online!
