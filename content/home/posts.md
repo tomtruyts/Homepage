@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: News & posts
-subtitle: (coming soon)
+subtitle: 
 
 content:
   # Page type to display. E.g. post, talk, publication...
