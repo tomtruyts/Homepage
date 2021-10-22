@@ -6,7 +6,7 @@ categories: ["R"]
 tags: ["R Blogdown", "Hugo"]
 ---
 
-# Digital resurrection
+# Digital resurrection! 
 I am happy to be back online with a new personal homepage. Building this website was a very pleasant experience, thanks to:   
 
 *   The <a href="https://bookdown.org/yihui/blogdown/">R Blogdown </a> package  
