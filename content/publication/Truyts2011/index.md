@@ -3,7 +3,7 @@ abstract: In the past decades, the economic analysis of social networks and grou
 
 authors:
 - admin
-date: "2011"
+date: "2011-10-01"
 doi: ""
 featured: false
 image:
@@ -15,7 +15,7 @@ publication: '*Reflets et perspectives de la vie economique (2011), 50*(4), 133-
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2011"
+publishDate: "2011-10-01"
 slides: ""
 summary: ""
 tags:

@@ -1,8 +1,8 @@
 ---
-header:
+header: 
   caption: ""
   image: ""
-title: Courses
+title: Teaching
 type: page
 view: 2
 ---
