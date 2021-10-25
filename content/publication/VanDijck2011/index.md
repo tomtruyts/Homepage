@@ -6,7 +6,7 @@ author_notes:
 authors:
 - admin
 - Maarten Van Dijck
-date: "2021"
+date: "2011-03-01"
 doi: ""
 featured: false
 image:
@@ -18,7 +18,7 @@ publication: '*The Journal of Economic History, 71*(1), 185-210 '
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2011"
+publishDate: "2011-03-01"
 slides: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

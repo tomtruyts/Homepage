@@ -6,7 +6,7 @@ author_notes:
 authors:
 - admin
 - Erik Schokkaert
-date: "2017"
+date: "2016-10-01"
 doi: ""
 featured: false
 image:
@@ -14,11 +14,11 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Social Choice and Welfare (2017), 49*(3), 545-576 '
+publication: '*Social Choice and Welfare (2016), 49*(3), 545-576 '
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017"
+publishDate: "2016-10-01"
 slides: ""
 summary: ""
 tags:

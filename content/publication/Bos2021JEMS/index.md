@@ -6,7 +6,7 @@ author_notes:
 authors:
 - admin
 - Olivier Bos
-date: "2021"
+date: "2021-10-01"
 doi: ""
 featured: false
 image:
@@ -18,7 +18,7 @@ publication: '*Journal of Economics & Management Strategy (2021), 30*(2), 420-44
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021"
+publishDate: "2021-10-01"
 slides: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

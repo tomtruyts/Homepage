@@ -4,7 +4,7 @@ abstract: Social distinction or status is an important motivation of human behav
 
 authors:
 - admin
-date: "2010"
+date: "2010-01-01"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: '*Journal of Economic Surveys, 24*(1), 137-169 '
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2010"
+publishDate: "2010-01-01"
 slides: ""
 summary: ""
 tags:

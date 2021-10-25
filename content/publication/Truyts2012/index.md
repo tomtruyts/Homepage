@@ -4,7 +4,7 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-date: "2012"
+date: "2012-04-01"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: '*Journal of Public Economics, 96*(3-4), 331-340 '
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2012"
+publishDate: "2012-04-01"
 slides: ""
 summary: ""
 tags:

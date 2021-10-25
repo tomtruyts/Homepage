@@ -10,7 +10,7 @@ authors:
 - Olivier Bos
 - Francisco Gomez-Martinez
 - Sander Onderstal
-date: "2021"
+date: "2021-05-01"
 doi: ""
 featured: false
 image:
@@ -22,7 +22,7 @@ publication: '*Journal of Economic Behavior & Organization (2021), 187*, 448-469
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021"
+publishDate: "2021-05-01"
 slides: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
