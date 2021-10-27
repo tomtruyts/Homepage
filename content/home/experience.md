@@ -39,7 +39,7 @@ experience:
   - title: Promoter
     company: Beamm.brussels
     company_url: ''
-    company_logo: Beamm-be
+    company_logo: Beamm-br
     location: Brussels
     date_start: '2020-01-02'
     date_end: ''
