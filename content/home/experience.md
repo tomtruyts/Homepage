@@ -25,7 +25,7 @@ experience:
   - title: Coordinator
     company: Beamm project
     company_url: ''
-    company_logo: Beamm-be
+    company_logo: Beamm
     location: Brussels
     date_start: '2019-01-01'
     date_end: ''
