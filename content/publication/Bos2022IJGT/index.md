@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*International Journal of Game Theory (2022), * '
+publication: 'International Journal of Game Theory (2022) '
 publication_short: ""
 publication_types:
 - "2"
