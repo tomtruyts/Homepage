@@ -2,7 +2,7 @@
 date: "2021-01-24"
 linkTitle: Economie 1 (NL)
 summary: An introduction to (micro-)economics for BAC 1 students (economics, business, business engineering), and for BAC 2 students in political and social sciences.
-title: "ESPO1173 - Economie 1 (NL)"
+title: "BESPO1173 & BESPO1173A - Economie 1 (NL)"
 type: book
 ---
 
@@ -33,10 +33,10 @@ The chosen methodology is a qualitative and graphical presentation of economic m
 
 
 ## Course content
-The Economics 1 course consists of 3 parts. In part 1, we will start with a presentation of the economic problem as a coordination problem, and explore for a first time the functioning of markets and public interventions in markets. Part 2 focusses on the supply side of the market. We explore the theory of the firm, the production and cost functions, and the behavior of producers in the context of market in perfect competition, monopoly and imperfect competition. In part 2, we focus on an evalution of the functioning of markets from the point of view of social welfare. We study several market failures and and analyze a series of potential solutions to such market failures.
+The Economics 1 course consists of 3 parts. In part 1, we will start with a presentation of the economic problem as a coordination problem, and explore for a first time the functioning of markets and public interventions in markets. Part 2 focusses on the supply side of the market. We explore the theory of the firm, the production and cost functions, and the behavior of producers in the context of market in perfect competition, monopoly and imperfect competition. In part 2, we focus on an evaluation of the functioning of markets from the point of view of social welfare. We study several market failures and and analyze a series of potential solutions to such market failures.
 
 ## Course materials
-- Reference book: André Decoster and Erwin Ooghe (eds). Economie. Een inleiding, 2017 edition. ISBN 9789462701090. Available at the service de reprographie  
+- Reference book: Erwin Ooghe & Tom Verbeke (eds). Economie. Een inleiding, 2023 edition. ISBN 9789464146493. Available at the service de reprographie  
 - Syllabus: Tom Truyts, "Economie 1". Available at the service de reprographie  
 
 ## Learning activities

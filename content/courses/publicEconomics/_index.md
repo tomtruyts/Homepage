@@ -2,7 +2,7 @@
 date: "2021-01-24"
 linkTitle: Public Economics (EN)
 summary: An introduction to Public Finance for BAC 2 students in economics and business, optional course for business engineering students.
-title: "ECGE1215 - Public Economics (EN)"
+title: "BECGE1215 - Public Economics (EN)"
 type: book
 ---
 

@@ -2,7 +2,7 @@
 date: "2021-01-24"
 linkTitle: Publieke Economie (NL)
 summary: An introduction to Public Finance for BAC 2 students in economics and business, optional course for business engineering students.
-title: "ECGE1218 - Publieke Economie (NL)"
+title: "BECGE1218 - Publieke Economie (NL)"
 type: book
 ---
 
