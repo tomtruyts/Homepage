@@ -72,21 +72,7 @@ experience:
         * How does the fiscal treatment of the costs of raising children affect intra-household behavior, such as the labor supply of the second-income earner?
         * How does the fiscal treatment of divorces impact intra-household behavior?
        
-  - title: Smartmove
-    company: Researcher
-    company_url: ''
-    company_logo: smartmove
-    location: Brussels
-    date_start: '2020-09-01'
-    date_end: ''
-    description: |2-
-        summary
-        
-        * project to assess the socio-economic impact of Smartmove
-        * Smartmove is a system of smart kilometer charges for the Brussels Capital Region
-        * together with Transport & Mobility Leuven
-        * report first stage available in <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Impactstudie_NL.pdf"> NL </a> or <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Analysed%27impact_FR.pdf"> FR </a>
-  
+
        
   - title: Smartmove
     company: Researcher
