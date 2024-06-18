@@ -48,12 +48,12 @@ experience:
     description: |2-
         Beamm.brussels is
         
-        * a project to built a comprehensive tax-benefit microsimulation model for the Brussels Capital Region
-        * available online and in open-access at beamm.brussels (coming soon)
+        * a project to build a comprehensive tax-benefit microsimulation model for the Brussels Capital Region
+        * available online and in open-access
         * running on a micro-dataset representing the population of the Brussels Capital Region 
         * focussing on tax-benefit competences of the Region
-        * beamm.brussels was co-funded by Innoviris in the Prospective Research for Brussels program (2020-2024) and is currently co-funded by the European fund for Regional Development for the Brussels Capital Region EFRO-FEDER (2024-2029)
-        * Visit the <a href="https://beamm.brussels"> beamm.brussels </a> platform
+        * beamm.brussels was co-funded by Innoviris in the Prospective Research for Brussels program (2020-2024) and is currently co-funded by the European fund for Regional Development for the Brussels Capital Region EFRO-FEDER (2024-2029).
+        * Visit the <a href="https://beamm.brussels"> beamm.brussels </a> platform.
 
        
   - title: TaxFam - Tax Design and Family Dynamics
